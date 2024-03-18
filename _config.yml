@@ -2,5 +2,6 @@ title: Analogy-ANGLE
 description: IJCAI 2024 Workshop
 show_downloads: false
 google_analytics: false
-is_project_page: false
 theme: jekyll-theme-dinky
+github:
+  is_project_page: false
