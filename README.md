@@ -1,4 +1,4 @@
-# The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (ANALOGY-Angle)
+# The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
 Co-located with IJCAI 2024
 
@@ -94,6 +94,7 @@ We have confirmed two keynote speakers with strong contributions to analogy and 
 * Piek Vossen (VU Amsterdam)
 * Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
+
 (Will be extended soon)
 
 
