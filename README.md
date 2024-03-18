@@ -1,4 +1,4 @@
-# The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (ANALOGY-Angle)
+# The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
 Co-located with IJCAI 2024
 
@@ -6,7 +6,6 @@ Co-located with IJCAI 2024
 * When: August 3rd or 4th, 2024
 * Where: Jeju, South Korea
 * Paper types: long and short regular papers (archival) and dissemination papers (non-archival)
-* [Submission link](TBD)
 * Deadline for submissions: May 3rd, 2024
 * Notifications: June 4th, 2024
 * Contact: f.ilievski@vu.nl
@@ -81,11 +80,11 @@ We have confirmed two keynote speakers with strong contributions to analogy and 
 
 ### Organizers
 
-* Filip Ilievski, f.ilievski@vu.nl, https://www.ilievski.info. Expertise: commonsense reasoning and natural language processing.
-* Pia Sommerauer, pia.sommerauer@vu.nl, https://piasommerauer.github.io. Expertise: computational linguistics and natural language processing. 
-* Marianna Bolognesi, m.bolognesi@unibo.it, https://www.unibo.it/sitoweb/m.bolognesi/en. Expertise: cognitive linguistics and computational creativity. 
-* Ute Schmid, ute.schmid@uni-bamberg.de, https://www.uni-bamberg.de/kogsys/team/schmid-ute. Expertise: cognitive science and interpretable machine learning.
-* Dafna Shahaf, dshahaf@cs.huji.ac.il, http://www.hyadatalab.com. Expertise: computational creativity and data science.
+* **Filip Ilievski**, f.ilievski@vu.nl, https://www.ilievski.info. Expertise: commonsense reasoning and natural language processing.
+* P**ia Sommerauer**, pia.sommerauer@vu.nl, https://piasommerauer.github.io. Expertise: computational linguistics and natural language processing. 
+* **Marianna Bolognesi**, m.bolognesi@unibo.it, https://www.unibo.it/sitoweb/m.bolognesi/en. Expertise: cognitive linguistics and computational creativity. 
+* **Ute Schmid**, ute.schmid@uni-bamberg.de, https://www.uni-bamberg.de/kogsys/team/schmid-ute. Expertise: cognitive science and interpretable machine learning.
+* **Dafna Shahaf**, dshahaf@cs.huji.ac.il, http://www.hyadatalab.com. Expertise: computational creativity and data science.
 
 ### Program Committee
 
@@ -94,6 +93,7 @@ We have confirmed two keynote speakers with strong contributions to analogy and 
 * Piek Vossen (VU Amsterdam)
 * Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
+
 (Will be extended soon)
 
 
