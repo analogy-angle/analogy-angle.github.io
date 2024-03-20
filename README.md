@@ -64,9 +64,8 @@ Submissions can fall into one of the following categories :
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
 Dissemination papers will go through short review from the organisers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
+Please submit your contribution via this link: [Submission link](TBD), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be anonymized and the review will be double-blind. Preprints can be stored on arXiv.
 
-
-Please submit your contribution via this link: [Submission link](TBD), and select the appropriate paper category (long paper, short paper, dissemination).
 
 
 ### Invited speakers
