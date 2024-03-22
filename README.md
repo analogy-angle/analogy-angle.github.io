@@ -71,7 +71,9 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 ### Confirmed Keynote Speakers
 
 
-[[img/Ken_Forbus.jpeg|alt="Ken Forbus (Northwestern University)"]]
+[[img/Ken_Forbus.jpeg|alt=Ken]]
+
+Ken Forbus (Northwestern University)
 
 ![Tony Veale]([img/](https://raw.githubusercontent.com/analogy-angle/analogy-angle.github.io/main/img/Tony_Veale.jpeg "Tony Veale (UC Dublin)")
 
