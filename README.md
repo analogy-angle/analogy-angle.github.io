@@ -70,8 +70,11 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
 ### Confirmed Keynote Speakers
 
-
-<img src="img/Ken_Forbus.jpeg" width="200"/> <img src="img/Tony_Veale.jpeg" width="200"/> 
+<figure>
+<img src="img/Ken_Forbus.jpeg" width="200"/>
+<figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+	<img src="img/Tony_Veale.jpeg" width="200"/> 
 
 Ken Forbus (Northwestern University)
 
