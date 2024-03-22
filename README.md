@@ -73,6 +73,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
  ![|Ken Forbus (Northwestern University)](img/Ken_Forbus.jpeg)  ![|Tony Veale (UC Dublin)](img/Tony_Veale.jpeg) 
 
+<img src="img/Ken_Forbus.jpeg" width="425"/> <img src="img/Ken_Forbus.jpeg" width="425"/> 
 
 
 
