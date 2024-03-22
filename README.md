@@ -10,6 +10,12 @@
 * Notifications: **June 4th, 2024**
 * Contact: **analogy-angle@groups.google.com**
 
+### Confirmed Keynote Speakers
+
+<img src="img/Ken_Forbus.jpeg" width="200"/> 	<img src="img/Tony_Veale.jpeg" width="200"/> 
+
+**Ken Forbus** (Northwestern)		**Tony Veale** (UC Dublin)
+	
 
 ## Call for Papers
 
@@ -19,8 +25,7 @@ Meanwhile, analogical tasks have also been a relatively popular topic in natural
 
 This workshop aims to bring together researchers with an interest in analogical abstraction from natural language processing, cognitive psychology, computer vision, deep learning, and neuro-symbolic AI. Such a workshop will enable a common ground where the complementary perspectives from these fields can come together to form a comprehensive picture of the current landscape of analogical abstraction, and point to standing challenges, evaluation methodologies, and emerging techniques of interest. Thus, we find it essential to hold this workshop at a venue like IJCAI where leading researchers from the focal areas are gathered. The multidisciplinary nature of the workshop is emphasized by the broad set of skills of the organization team and the program committee, and the diversity principle guiding the list of topics and the invited keynotes.
 
-### Relevant topics and contributions
-
+### Topics
 We invite contributions ranging from cognitive modeling and algorithms and methods to new tasks and new applications of analogy. Contributions that take an interdisciplinary perspective are particularly encouraged. We welcome novel short, long, and review contributions. We also welcome already accepted relevant papers at top-tier venues over the past year, which will be presented as posters at this workshop. Topics include (but are not limited to) the following: 
 
 
@@ -68,12 +73,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
 
 
-### Confirmed Keynote Speakers
 
-<img src="img/Ken_Forbus.jpeg" width="200"/> 	<img src="img/Tony_Veale.jpeg" width="200"/> 
-
-**Ken Forbus** (Northwestern)		**Tony Veale** (UC Dublin)
-	
 
 ### Organizers
 
