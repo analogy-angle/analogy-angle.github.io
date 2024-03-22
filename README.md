@@ -1,14 +1,14 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
-Co-located with IJCAI 2024
+**Co-located with IJCAI 2024**
 
 
-* When: August 3rd or 4th, 2024
-* Where: Jeju, South Korea
-* Paper types: long and short regular papers (archival) and dissemination papers (non-archival)
-* Deadline for submissions: May 3rd, 2024
-* Notifications: June 4th, 2024
-* Contact: analogy-angle@groups.google.com
+* When: **August 3rd or 4th, 2024**
+* Where: **Jeju, South Korea**
+* Paper types: **long and short** regular papers (archival) and **dissemination** papers (non-archival)
+* Deadline for submissions: **May 3rd, 2024**
+* Notifications: **June 4th, 2024**
+* Contact: **analogy-angle@groups.google.com**
 
 
 ## Call for Papers
