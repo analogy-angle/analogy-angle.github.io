@@ -10,7 +10,7 @@
 * Notifications: **June 4th, 2024**
 * Contact: **analogy-angle@groups.google.com**
 
-### Confirmed Keynote Speakers
+## Confirmed Keynote Speakers
 
 <img src="img/Ken_Forbus.jpeg" width="200"/> 	<img src="img/Tony_Veale.jpeg" width="200"/> 
 
@@ -75,7 +75,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
 
 
-### Organizers
+## Organizers
 
 * [**Filip Ilievski**](https://www.ilievski.info) (f.ilievski@vu.nl): commonsense reasoning and natural language processing.
 * [**Pia Sommerauer**](https://piasommerauer.github.io) (pia.sommerauer@vu.nl): computational linguistics and natural language processing. 
@@ -83,7 +83,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 * [**Ute Schmid**](https://www.uni-bamberg.de/kogsys/team/schmid-ute) (ute.schmid@uni-bamberg.de): cognitive science and interpretable machine learning.
 * [**Dafna Shahaf**](http://www.hyadatalab.com) (dshahaf@cs.huji.ac.il): computational creativity and data science.
 
-### Program Committee
+## Program Committee
 
 * Zhivar Sourati (University of Southern California)
 * Yifan Jiang (University of Southern California)
@@ -94,7 +94,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 (Will be extended soon)
 
 
-### References
+## References
 
 
 Dunbar, K.N. and Klahr, D., 2012. Scientific thinking and reasoning.  In Keith J Holyoak and Robert G Morrison, editors, Oxford handbook of thinking and reasoning, page 701–718.
