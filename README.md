@@ -71,7 +71,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 ### Confirmed Keynote Speakers
 
 
-[[img/Ken_Forbus.jpeg|alt=Ken]]
+![|Ken Forbus (Northwestern University)](img/Ken_Forbus.jpeg)
 
 Ken Forbus (Northwestern University)
 
