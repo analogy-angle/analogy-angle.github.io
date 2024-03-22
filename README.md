@@ -73,9 +73,8 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
 ![|Ken Forbus (Northwestern University)](img/Ken_Forbus.jpeg)
 
-Ken Forbus (Northwestern University)
+![|Tony Veale (UC Dublin)](img/Tony_Veale.jpeg)
 
-Tony Veale (UC Dublin)
 
 
 
