@@ -71,7 +71,9 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 ### Confirmed Keynote Speakers
 
 
-![Alt text]((https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/forbus-ken.jpg "Ken Forbus (Professor of Computer Science and Education, Northwestern University")
+![Ken Forbus](img/Ken_Forbus.jpeg "Ken Forbus (Northwestern University)")
+
+![Tony Veale](img/Tony_Veale.jpeg "Tony Veale (UC Dublin)")
 
 
 
