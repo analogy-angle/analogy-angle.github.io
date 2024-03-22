@@ -70,11 +70,8 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
 ### Confirmed Keynote Speakers
 
-<figure>
 <img src="img/Ken_Forbus.jpeg" width="200"/> 	<img src="img/Tony_Veale.jpeg" width="200"/> 
-<figcaption>Ken Forbus 		Tony Veale
-(Northwestern University)	(UC Dublin)</figcaption>
-</figure>
+Ken Forbus (Northwestern)		Tony Veale (UC Dublin)
 	
 
 ### Organizers
