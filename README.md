@@ -29,25 +29,25 @@ This workshop aims to bring together researchers with an interest in analogical 
 We invite contributions ranging from cognitive modeling and algorithms and methods to new tasks and new applications of analogy. Contributions that take an interdisciplinary perspective are particularly encouraged. We welcome novel short, long, and review contributions. We also welcome already accepted relevant papers at top-tier venues over the past year, which will be presented as posters at this workshop. Topics include (but are not limited to) the following: 
 
 
-* Cognitive modeling:
+* **Cognitive modeling**
 	* Analogy and abstraction
 	* Analogy and conceptual metaphor
 	* Analogy, figurative language, sarcasm, and irony
 	* Cognitive frameworks of analogy
 	* Cognitive/psychological studies on analogy involving human participants
-* Algorithms and methods:
+* **Algorithms and methods**
 	* Studies of the analogical abilities of large language models and visual diffusion models
 	* Algorithmic approaches to analogy
 	* Augmentation and verification of large language and vision models through analogy
 	* Neuro-symbolic AI architectures for analogical abstraction
 	* Extracting analogies from knowledge bases
-* Tasks and benchmarks:
+* **Tasks and benchmarks**
 	* Matching narratives and situational descriptions through narratives
 	* Novel tasks and benchmarks for evaluating analogies in text and vision
 	* Analogy in longer formats, e.g., narratives and videos
 	* Analogy and visual abstraction tasks
 	* Analogical discovery and computational creativity
-* Applications:
+* **Applications**
 	* Analogies for personalization, explanation, and collaboration
 	* Novel applications of analogical abstraction
 	* Studies of the impact of analogy in specific applications and domains, including education, innovation, and law
