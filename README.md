@@ -71,17 +71,11 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 ### Confirmed Keynote Speakers
 
 
- ![|Ken Forbus (Northwestern University)](img/Ken_Forbus.jpeg)  ![|Tony Veale (UC Dublin)](img/Tony_Veale.jpeg) 
+<img src="img/Ken_Forbus.jpeg" width="200"/> <img src="img/Tony_Veale.jpeg" width="200"/> 
 
-<img src="img/Ken_Forbus.jpeg" width="300"/> <img src="img/Tony_Veale.jpeg" width="300"/> 
+Ken Forbus (Northwestern University)
 
-
-
-We have confirmed two keynote speakers with strong contributions to analogy and abstraction: Ken Forbus and Tony Veale. 
-
-**Ken Forbus** is a Walter P. Murphy Professor of Computer Science and Professor of Education at Northwestern University, with dozens of publications on analogy from a cognitive perspective, and its applications to sketching, moral decision making, and qualitative simulations. 
-
-**Tony Veale** is an associate professor in the School of Computer Science at University College Dublin (UCD) in Ireland. Veale has developed the analogical engine of the hallmark commonsense reasoning project, CYC, and is a leader in the areas of metaphors, computational creativity, and irony.
+Tony Veale (UC Dublin)
 
 
 ### Organizers
