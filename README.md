@@ -75,7 +75,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 
 Ken Forbus (Northwestern University)
 
-![Tony Veale]([img/](https://raw.githubusercontent.com/analogy-angle/analogy-angle.github.io/main/img/Tony_Veale.jpeg "Tony Veale (UC Dublin)")
+Tony Veale (UC Dublin)
 
 
 
