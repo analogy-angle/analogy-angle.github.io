@@ -69,7 +69,7 @@ Dissemination papers will go through short review from the organisers, checking 
 
 Please submit your contribution via this link: [Link to be added](TBD), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
-
+The deadline time is **23:59 anywhere on Earth**.
 
 
 
