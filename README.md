@@ -1,8 +1,8 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
 <div align="center">
-	<b>August 3rd or 4th, 2024 in Jeju, South Korea><br/>
-	Co-located with</b><br/>
+	<strong>August 3rd or 4th, 2024 in Jeju, South Korea><br/>
+	Co-located with</strong><br/>
 <img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
 </div>
 
@@ -11,11 +11,11 @@
 <div class="fig-row">
     <figure style="display: inline-block;">
 	<img src="img/Ken_Forbus.jpeg" alt="KF" width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Ken Forbus</b></a> <br/>Northwestern University</figcaption>
+        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><strong>Ken Forbus</strong></a> <br/>Northwestern University</figcaption>
     </figure>
     <figure style="display: inline-block;">
 	<img src="img/Tony_Veale.jpeg" alt="TV"  width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Tony Veale</b></a> <br/>UC Dublin</figcaption>
+        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><strong>Tony Veale</strong></a> <br/>UC Dublin</figcaption>
     </figure>
 </div>
 
@@ -77,23 +77,23 @@ The deadline time is **23:59 anywhere on Earth**.
 <div class="fig-row">
     <figure style="display: inline-block;">
 	<img src="img/Filip_Ilievski.jpg" alt="FI" width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
+        <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><strong>Filip Ilievski</strong></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
     </figure>
     <figure style="display: inline-block;">
 	<img src="img/Pia_Sommerauer.jpeg" alt="PS"  width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://piasommerauer.github.io"><b>Pia Sommerauer</b></a> <br/>VU Amsterdam<br/>Computational linguistics, <br/>Natural language processing</figcaption>
+        <figcaption style="text-align: center;"><a href="https://piasommerauer.github.io"><strong>Pia Sommerauer</strong></a> <br/>VU Amsterdam<br/>Computational linguistics, <br/>Natural language processing</figcaption>
     </figure>
 	<figure style="display: inline-block;">
 	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> <br/>University of Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
+        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><strong>Marianna Bolognesi</strong></a> <br/>University of Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
     </figure>
 	<figure style="display: inline-block;">
 	<img src="img/Ute_Schmid.jpeg" alt="US"  width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><b>Ute Schmid</b></a> <br/>University of Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
+        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><strong>Ute Schmid</strong></a> <br/>University of Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
     </figure>
 	<figure style="display: inline-block;">
 	<img src="img/Dafna_Shahaf.jpeg" alt="DS"  width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="http://www.hyadatalab.com"><b>Dafna Shahaf</b></a> <br/>The Hebrew University of Jerusalem<br/>Computational creativity, <br/>Data science</figcaption>
+        <figcaption style="text-align: center;"><a href="http://www.hyadatalab.com"><strong>Dafna Shahaf</strong></a> <br/>The Hebrew University of Jerusalem<br/>Computational creativity, <br/>Data science</figcaption>
     </figure>
 </div>
 
