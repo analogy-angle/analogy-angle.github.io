@@ -1,10 +1,5 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
-<style>
-  li:has(.github) {
-    display: none;
-  }
-</style>
 
 <div align="center">
 	<b>August 3rd or 4th, 2024 in Jeju, South Korea</b><br/>
