@@ -77,24 +77,24 @@ The deadline time is **23:59 anywhere on Earth**.
 
 <div class="fig-row">
     <figure style="display: inline-block;">
-	<img src="img/Filip_Ilievski.jpg" alt="FI" width="170" style="margin:0px 15px"/>
+	<img src="img/Filip_Ilievski.jpg" alt="FI" width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
     </figure>
     <figure style="display: inline-block;">
-	<img src="img/Pia_Sommerauer.jpeg" alt="PS"  width="170" style="margin:0px 15px"/>
+	<img src="img/Pia_Sommerauer.jpeg" alt="PS"  width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href="https://piasommerauer.github.io"><b>Pia Sommerauer</b></a> <br/>VU Amsterdam<br/>Computational linguistics, <br/>Natural language processing</figcaption>
     </figure>
 	<figure style="display: inline-block;">
-	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:0px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> Uni Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
+	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:15px 15px"/>
+        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> <br/>Uni Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
     </figure>
 	<figure style="display: inline-block;">
-	<img src="img/Ute_Schmid.jpeg" alt="US"  width="170" style="margin:0px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><b>Ute Schmid</b></a> Uni Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
+	<img src="img/Ute_Schmid.jpeg" alt="US"  width="170" style="margin:15px 15px"/>
+        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><b>Ute Schmid</b></a> <br/>Uni Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
     </figure>
 	<figure style="display: inline-block;">
-	<img src="img/Dafna_Shahaf.jpeg" alt="DS"  width="170" style="margin:0px 15px"/>
-        <figcaption style="text-align: center;"><a href="http://www.hyadatalab.com"><b>Dafna Shahaf</b></a> The Hebrew University of Jerusalem<br/>Computational creativity, <br/>Data science</figcaption>
+	<img src="img/Dafna_Shahaf.jpeg" alt="DS"  width="170" style="margin:15px 15px"/>
+        <figcaption style="text-align: center;"><a href="http://www.hyadatalab.com"><b>Dafna Shahaf</b></a> <br/>The Hebrew University of Jerusalem<br/>Computational creativity, <br/>Data science</figcaption>
     </figure>
 </div>
 
