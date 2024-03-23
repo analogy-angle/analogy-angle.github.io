@@ -7,6 +7,7 @@
 </style>
 
 <div align="center">
+	<strong>Co-located with</strong><br/>
 	<img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
 </div>
 
