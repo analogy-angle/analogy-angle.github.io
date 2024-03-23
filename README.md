@@ -1,7 +1,8 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
-**Co-located with IJCAI 2024**
+**Co-located with:**
 
+<img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
 
 * When: **August 3rd or 4th, 2024**
 * Where: **Jeju, South Korea**
@@ -14,11 +15,11 @@
 
 <div class="fig-row">
     <figure style="display: inline-block;">
-	<img src="img/Ken_Forbus.jpeg" alt="KF" width="200" style="margin:0px 50px">
+	<img src="img/Ken_Forbus.jpeg" alt="KF" width="200" style="margin:0px 50px"/>
         <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Ken Forbus</b></a> (Northwestern University)</figcaption>
     </figure>
     <figure style="display: inline-block;">
-	<img src="img/Tony_Veale.jpeg" alt="TV"  width="200" style="margin:0px 50px">
+	<img src="img/Tony_Veale.jpeg" alt="TV"  width="200" style="margin:0px 50px"/>
         <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Tony Veale</b></a> (UC Dublin)</figcaption>
     </figure>
 </div>
