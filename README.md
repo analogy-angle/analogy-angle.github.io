@@ -1,7 +1,7 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
 <style>
-  .github {
+  li:has(.github) {
     display: none;
   }
 </style>
