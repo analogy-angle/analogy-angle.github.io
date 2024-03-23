@@ -88,14 +88,15 @@ The deadline time is **23:59 anywhere on Earth**.
 	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:0px 15px"/>
         <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> Uni Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
     </figure>
+	<figure style="display: inline-block;">
+	<img src="img/Ute_Schmid.jpeg" alt="US"  width="170" style="margin:0px 15px"/>
+        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><b>Ute Schmid</b></a> Uni Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
+    </figure>
+	<figure style="display: inline-block;">
+	<img src="img/Dafna_Shahaf.jpeg" alt="DS"  width="170" style="margin:0px 15px"/>
+        <figcaption style="text-align: center;"><a href="http://www.hyadatalab.com"><b>Dafna Shahaf</b></a> The Hebrew University of Jerusalem<br/>Computational creativity, <br/>Data science</figcaption>
+    </figure>
 </div>
-
-
-* [**Filip Ilievski**](https://www.ilievski.info) (f.ilievski@vu.nl): commonsense reasoning and natural language processing.
-* [**Pia Sommerauer**](https://piasommerauer.github.io) (pia.sommerauer@vu.nl): computational linguistics and natural language processing. 
-* [**Marianna Bolognesi**](https://www.unibo.it/sitoweb/m.bolognesi/en) (m.bolognesi@unibo.it): cognitive linguistics and computational creativity. 
-* [**Ute Schmid**](https://www.uni-bamberg.de/kogsys/team/schmid-ute) (ute.schmid@uni-bamberg.de): cognitive science and interpretable machine learning.
-* [**Dafna Shahaf**](http://www.hyadatalab.com) (dshahaf@cs.huji.ac.il): computational creativity and data science.
 
 ## Contact
 
