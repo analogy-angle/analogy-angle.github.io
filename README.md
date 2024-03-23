@@ -1,15 +1,10 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
-**Co-located with:**
-
+<div align="center">
+	<b>August 3rd or 4th, 2024 in Jeju, South Korea</b><br/>
+<b>Co-located with</b><br/>
 <img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
-
-* When: **August 3rd or 4th, 2024**
-* Where: **Jeju, South Korea**
-* Paper types: **long and short** regular papers (archival) and **dissemination** papers (non-archival)
-* Deadline for submissions: **May 3rd, 2024**
-* Notifications: **June 4th, 2024**
-* Contact: **analogy-angle@groups.google.com**
+</div>
 
 ## Confirmed Keynote Speakers
 
@@ -69,6 +64,11 @@ Dissemination papers will go through short review from the organisers, checking 
 
 Please submit your contribution via this link: [Link to be added](TBD), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
+## Important Dates
+* Submission deadline: **May 3rd, 2024**
+* Notifications sent: **June 4th, 2024**
+
+
 The deadline time is **23:59 anywhere on Earth**.
 
 
@@ -80,6 +80,10 @@ The deadline time is **23:59 anywhere on Earth**.
 * [**Marianna Bolognesi**](https://www.unibo.it/sitoweb/m.bolognesi/en) (m.bolognesi@unibo.it): cognitive linguistics and computational creativity. 
 * [**Ute Schmid**](https://www.uni-bamberg.de/kogsys/team/schmid-ute) (ute.schmid@uni-bamberg.de): cognitive science and interpretable machine learning.
 * [**Dafna Shahaf**](http://www.hyadatalab.com) (dshahaf@cs.huji.ac.il): computational creativity and data science.
+
+## Contact
+
+**analogy-angle@groups.google.com**
 
 ## Program Committee
 
