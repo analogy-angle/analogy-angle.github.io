@@ -7,7 +7,7 @@
 </style>
 
 <div align="center">
-	<strong>August 3rd or 4th, 2024 in Jeju, South Korea><br/>
+	<strong>August 3rd or 4th, 2024 in Jeju, South Korea<br/>
 	Co-located with</strong><br/>
 <img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
 </div>
