@@ -22,7 +22,7 @@
 
 
 ## Topics
-We invite contributions ranging from cognitive modeling and algorithms and methods to new tasks and new applications of analogy. Contributions that take an **interdisciplinary** perspective are particularly encouraged. We welcome novel short, long, and review contributions. We also welcome already accepted relevant papers at top-tier venues over the past year, which will be presented as posters at this workshop. Topics include (but are not limited to) the following: 
+We invite contributions ranging from cognitive modeling and algorithms and methods to new tasks and new applications of analogy. Contributions that take an **interdisciplinary** perspective are particularly encouraged. Topics include (but are not limited to) the following: 
 
 
 * **Cognitive modeling**
