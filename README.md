@@ -12,10 +12,22 @@
 
 ## Confirmed Keynote Speakers
 
-<img src="img/Ken_Forbus.jpeg" width="200" style="margin:0px 100px"/> 	<img src="img/Tony_Veale.jpeg" width="200" align="right" style="margin:0px 100px"/> 
+
+<img src="img/Ken_Forbus.jpeg" width="200" align="center" style="margin:0px 50px"/> 	<img src="img/Tony_Veale.jpeg" width="200" align="center" style="margin:0px 50px"/> 
 
 [**Ken Forbus**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) (Northwestern Univ.)		<p align="right"><a href="https://people.ucd.ie/tony.veale"><b>Tony Veale</b></a> (UC Dublin)</p>
-	
+
+<div class="fig-row">
+    <figure style="display: inline-block;">
+	<img src="img/Ken_Forbus.jpeg" alt="KF" width="200" style="margin:0px 50px">
+        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Ken Forbus</b></a> (Northwestern University)</figcaption>
+    </figure>
+    <figure style="display: inline-block;">
+	<img src="img/Tony_Veale.jpeg" alt="TV"  width="200" style="margin:0px 50px">
+        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Tony Veale</b></a> (UC Dublin)</figcaption>
+    </figure>
+</div>
+
 
 ## Topics
 We invite contributions ranging from cognitive modeling and algorithms and methods to new tasks and new applications of analogy. Contributions that take an **interdisciplinary** perspective are particularly encouraged. We welcome novel short, long, and review contributions. We also welcome already accepted relevant papers at top-tier venues over the past year, which will be presented as posters at this workshop. Topics include (but are not limited to) the following: 
