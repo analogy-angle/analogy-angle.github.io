@@ -4,5 +4,5 @@ show_downloads: false
 google_analytics: false
 theme: jekyll-theme-dinky
 github:
-  is_project_page: false
-
+  zip_url: http://example.com/download.zip
+  another_url: another value
