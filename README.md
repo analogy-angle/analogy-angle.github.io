@@ -86,11 +86,11 @@ The deadline time is **23:59 anywhere on Earth**.
     </figure>
 	<figure style="display: inline-block;">
 	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> <br/>Uni Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
+        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> <br/>University of Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
     </figure>
 	<figure style="display: inline-block;">
 	<img src="img/Ute_Schmid.jpeg" alt="US"  width="170" style="margin:15px 15px"/>
-        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><b>Ute Schmid</b></a> <br/>Uni Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
+        <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><b>Ute Schmid</b></a> <br/>University of Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
     </figure>
 	<figure style="display: inline-block;">
 	<img src="img/Dafna_Shahaf.jpeg" alt="DS"  width="170" style="margin:15px 15px"/>
