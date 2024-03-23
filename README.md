@@ -75,6 +75,22 @@ The deadline time is **23:59 anywhere on Earth**.
 
 ## Organizers
 
+<div class="fig-row">
+    <figure style="display: inline-block;">
+	<img src="img/Filip_Ilievski.jpg" alt="FI" width="200" style="margin:0px 50px"/>
+        <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> (VU Amsterdam)<br/> Commonsense reasoning and natural language processing</figcaption>
+    </figure>
+    <figure style="display: inline-block;">
+	<img src="img/Pia_Sommerauer.jpeg" alt="PS"  width="200" style="margin:0px 50px"/>
+        <figcaption style="text-align: center;"><a href="https://piasommerauer.github.io"><b>Pia Sommerauer</b></a> (VU Amsterdam)<br/>Computational linguistics and natural language processing</figcaption>
+    </figure>
+	<figure style="display: inline-block;">
+	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="200" style="margin:0px 50px"/>
+        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> (University of Bologna)<br/>Cognitive linguistics and computational creativity</figcaption>
+    </figure>
+</div>
+
+
 * [**Filip Ilievski**](https://www.ilievski.info) (f.ilievski@vu.nl): commonsense reasoning and natural language processing.
 * [**Pia Sommerauer**](https://piasommerauer.github.io) (pia.sommerauer@vu.nl): computational linguistics and natural language processing. 
 * [**Marianna Bolognesi**](https://www.unibo.it/sitoweb/m.bolognesi/en) (m.bolognesi@unibo.it): cognitive linguistics and computational creativity. 
