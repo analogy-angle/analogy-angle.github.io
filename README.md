@@ -11,11 +11,11 @@
 <div class="fig-row">
     <figure style="display: inline-block;">
 	<img src="img/Ken_Forbus.jpeg" alt="KF" width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Ken Forbus</b></a> (Northwestern University)</figcaption>
+        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Ken Forbus</b></a> <br/>Northwestern University</figcaption>
     </figure>
     <figure style="display: inline-block;">
 	<img src="img/Tony_Veale.jpeg" alt="TV"  width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Tony Veale</b></a> (UC Dublin)</figcaption>
+        <figcaption style="text-align: center;"><a href="https://people.ucd.ie/tony.veale"><b>Tony Veale</b></a> <br/>UC Dublin</figcaption>
     </figure>
 </div>
 
