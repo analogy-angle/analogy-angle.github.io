@@ -12,7 +12,7 @@
 
 ## Confirmed Keynote Speakers
 
-<img src="img/Ken_Forbus.jpeg" width="200"/> 	<img src="img/Tony_Veale.jpeg" width="200" align="right"/> 
+<img src="img/Ken_Forbus.jpeg" width="200" style="margin:100px 0px"/> 	<img src="img/Tony_Veale.jpeg" width="200" align="right" style="margin:100px 0px"/> 
 
 [**Ken Forbus**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) (Northwestern Univ.)		<p align="right">[**Tony Veale**](https://people.ucd.ie/tony.veale) (UC Dublin)</p>
 	
