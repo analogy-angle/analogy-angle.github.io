@@ -56,11 +56,11 @@ Submissions can fall into one of the following categories :
 
 2. **Short Papers (up to 4 pages)** - Position papers or reports of ongoing work on new research directions.
 
-3. **Dissemination Papers** - Already published papers from top AI venues such as IJCAI, NeurIPS, AAAI, ICML, ICLR, ACL, EMNLP that are relevant to the workshop. Please upload the original submission and abstract to our submission site.
+3. **Dissemination Papers** - Already published papers from top AI venues such as IJCAI, NeurIPS, AAAI, ICML, ICLR, ACL, and EMNLP that are relevant to the workshop. Please upload the original submission and abstract to our submission site.
 
 
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
-Dissemination papers will go through short review from the organisers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
+Dissemination papers will go through a short review from the organisers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
 Please submit your contribution via this link: [Link to be added](TBD), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
@@ -75,7 +75,7 @@ The deadline time is **23:59 anywhere on Earth**.
 
 ## Organizers
 
-<div class="fig-row">
+<div class="fig-row" align="center>
     <figure style="display: inline-block;">
 	<img src="img/Filip_Ilievski.jpg" alt="FI" width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
