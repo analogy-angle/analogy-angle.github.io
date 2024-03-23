@@ -1,12 +1,10 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
-**
 <div align="center">
-	August 3rd or 4th, 2024 in Jeju, South Korea><br/>
-	Co-located with<br/>
+	<b>August 3rd or 4th, 2024 in Jeju, South Korea><br/>
+	Co-located with</b><br/>
 <img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
 </div>
-**
 
 ## Confirmed Keynote Speakers
 
