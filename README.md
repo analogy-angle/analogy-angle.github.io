@@ -77,16 +77,16 @@ The deadline time is **23:59 anywhere on Earth**.
 
 <div class="fig-row">
     <figure style="display: inline-block;">
-	<img src="img/Filip_Ilievski.jpg" alt="FI" width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> (VU Amsterdam)<br/> Commonsense reasoning and natural language processing</figcaption>
+	<img src="img/Filip_Ilievski.jpg" alt="FI" width="170" style="margin:0px 15px"/>
+        <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
     </figure>
     <figure style="display: inline-block;">
-	<img src="img/Pia_Sommerauer.jpeg" alt="PS"  width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://piasommerauer.github.io"><b>Pia Sommerauer</b></a> (VU Amsterdam)<br/>Computational linguistics and natural language processing</figcaption>
+	<img src="img/Pia_Sommerauer.jpeg" alt="PS"  width="170" style="margin:0px 15px"/>
+        <figcaption style="text-align: center;"><a href="https://piasommerauer.github.io"><b>Pia Sommerauer</b></a> <br/>VU Amsterdam<br/>Computational linguistics, <br/>Natural language processing</figcaption>
     </figure>
 	<figure style="display: inline-block;">
-	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="200" style="margin:0px 50px"/>
-        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> (University of Bologna)<br/>Cognitive linguistics and computational creativity</figcaption>
+	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:0px 15px"/>
+        <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><b>Marianna Bolognesi</b></a> Uni Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
     </figure>
 </div>
 
