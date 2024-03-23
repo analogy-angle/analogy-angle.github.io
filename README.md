@@ -75,7 +75,7 @@ The deadline time is **23:59 anywhere on Earth**.
 
 ## Organizers
 
-<div class="fig-row" align="center>
+<div class="fig-row" align="center">
     <figure style="display: inline-block;">
 	<img src="img/Filip_Ilievski.jpg" alt="FI" width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><b>Filip Ilievski</b></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
