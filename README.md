@@ -1,5 +1,11 @@
 # The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
 
+<style>
+	li :has(.github){
+		display: none;
+	}
+</style>
+
 <div align="center">
 	<strong>August 3rd or 4th, 2024 in Jeju, South Korea><br/>
 	Co-located with</strong><br/>
@@ -52,7 +58,7 @@ We invite contributions ranging from cognitive modeling and algorithms and metho
 
 Submissions can fall into one of the following categories : 
 
-1. **Full Research Papers (up to 7 pages plus 2 pages for references)** - Papers with original research work which will be judged on their technical soundness and rigour, though allowances made for novel or experimental directions. We also welcome submissions reporting negative results and sharing experimental insights on the technical challenges and issues of analogical abstraction. 
+1. **Full Research Papers (up to 7 pages plus 2 pages for references)** - Papers with original research work which will be judged on their technical soundness and rigor, though allowances made for novel or experimental directions. We also welcome submissions reporting negative results and sharing experimental insights on the technical challenges and issues of analogical abstraction. 
 
 2. **Short Papers (up to 4 pages)** - Position papers or reports of ongoing work on new research directions.
 
@@ -60,7 +66,7 @@ Submissions can fall into one of the following categories :
 
 
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
-Dissemination papers will go through a short review from the organisers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
+Dissemination papers will go through a short review from the organizers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
 Please submit your contribution via this link: [Link to be added](TBD), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
