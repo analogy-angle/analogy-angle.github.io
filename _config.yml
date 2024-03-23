@@ -5,3 +5,6 @@ google_analytics: false
 theme: jekyll-theme-dinky
 github:
   is_project_page: false
+header_pages:
+  - README.md#Organizers
+  - README.md#Background
