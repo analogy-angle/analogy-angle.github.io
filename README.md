@@ -11,6 +11,10 @@
 	<img src="https://ijcai24.org/wp-content/uploads/2023/11/cropped-logo-1.png" width="300"/>
 </div>
 
+
+Analogy-ANGLE is a new interdisciplinary workshop co-located with IJCAI 2024 on August 3rd or 4th, 2024 in Jeju, South Korea. Analogy-ANGLE aims to bring together researchers with an interest in analogical abstraction from natural language processing, cognitive psychology, computer vision, deep learning, and neuro-symbolic AI. This workshop will enable a common ground where the complementary perspectives from these fields can come together to form a comprehensive picture of the current landscape of analogical abstraction, and point to standing challenges, evaluation methodologies, and emerging techniques of interest. Thus, we organize this workshop at IJCAI where leading researchers from the focal areas are gathered. The multidisciplinary nature of the workshop is emphasized by the broad set of skills of the organization team and the program committee, and the diversity principle guiding the list of topics and the invited keynotes.
+
+
 ## Confirmed Keynote Speakers
 
 <div class="fig-row">
@@ -77,7 +81,7 @@ Please submit your contribution via this link: [Link to be added](TBD), and sele
 The deadline time is **23:59 anywhere on Earth**.
 
 
-## Organizers
+## Organizing Committee
 
 <div class="fig-row">
     <figure style="display: inline-block;">
@@ -103,27 +107,24 @@ The deadline time is **23:59 anywhere on Earth**.
 </div>
 
 
-## Contact
-
-**analogy-angle@groups.google.com**
+Contact: **analogy-angle@groups.google.com**
 
 ## Program Committee
 
 * Zhivar Sourati (University of Southern California)
 * Yifan Jiang (University of Southern California)
+* Anna Thaler (University of Bamberg)
+* Bettina Finzel (University of Bamberg)
 * Piek Vossen (VU Amsterdam)
 * Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
-
-(Will be extended soon)
+* …will be extended shortly
 
 ## Background
 
 Analogical abstraction is a fundamental cognitive skill unique to humans (Penn et al., 2008; Hofstadter, 2001), defined as the ability to perceive and utilize the similarities between concepts, situations or events based on (systems of) relations rather than surface similarities (Holyoak, 2012; Gentner et al., 2012). Analogy enables creative inferences, explanations, and generalization of knowledge, and has been used for scientific inventions (Dunbar and Klahr, 2012), solving problems (Gick and Holyoak, 1980), and policy-making (Houghton, 1998). As such, it has been the goal of one of the first AI programs developed by Evans (1964). It has also been the subject of cognitive theories and studies about humans for common processes, such as the retrieval of memories (Wharton et al., 1994) and problem-solving (Gick and Holyoak, 1980), mostly leveraging narratives as their experimental medium (Gentner and Toupin, 1986; Gentner et al., 1993; Wharton et al., 1994), given their multi-tiered nature and potential for abstraction. 
 
 Meanwhile, analogical tasks have also been a relatively popular topic in natural language processing (NLP) and artificial intelligence (AI), typically framed as intelligence tests for models compared against humans. So-called word-based, proportional analogies of the form (A : B :: C : D) (Mikolov et al., 2013a,b; Gladkova et al., 2016; Ushio et al., 2021) are often used to measure the potential of word embeddings and language models. Recent studies (Webb et al., 2023) show a strong ability of state-of-the-art (SOTA) large language models (LLMs) to discover proportional word analogies, though this skill degrades with higher complexity (Wijesiriwardene et al., 2023) or when controlling for association-based answers (Stevenson et al., 2023). Shifting toward more complex settings, narrative-based analogy benchmarks that involve system mappings rather than simple word-based relational mappings have been also been considered recently, with limitations in scope, generalizability, and alignment with cognitive theories (Nagarajah et al., 2022; Wijesiriwardene et al., 2023; Sourati et al., 2023). Meanwhile, given the potential of large language and visual models, another line of research aims to study their ability to draw analogies consistently (cf., Webb et al., 2023). Given the richness of analogical abstraction and the wide interest in this topic from artificial intelligence, linguistics, and cognitive psychology, it is important to connect these communities and facilitate cross-disciplinary activities.
-
-This workshop aims to bring together researchers with an interest in analogical abstraction from natural language processing, cognitive psychology, computer vision, deep learning, and neuro-symbolic AI. Such a workshop will enable a common ground where the complementary perspectives from these fields can come together to form a comprehensive picture of the current landscape of analogical abstraction, and point to standing challenges, evaluation methodologies, and emerging techniques of interest. Thus, we find it essential to hold this workshop at a venue like IJCAI where leading researchers from the focal areas are gathered. The multidisciplinary nature of the workshop is emphasized by the broad set of skills of the organization team and the program committee, and the diversity principle guiding the list of topics and the invited keynotes.
 
 
 Dunbar, K.N. and Klahr, D., 2012. Scientific thinking and reasoning.  In Keith J Holyoak and Robert G Morrison, editors, Oxford handbook of thinking and reasoning, page 701–718.
