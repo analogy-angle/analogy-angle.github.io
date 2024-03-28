@@ -111,13 +111,14 @@ Contact: **analogy-angle@groups.google.com**
 
 ## Program Committee
 
-* Zhivar Sourati (University of Southern California)
-* Yifan Jiang (University of Southern California)
-* Anna Thaler (University of Bamberg)
-* Bettina Finzel (University of Bamberg)
-* Piek Vossen (VU Amsterdam)
 * Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
+* Bettina Finzel (University of Bamberg)
+* Yifan Jiang (University of Southern California)
+* Kaixin Ma (Tencent AI)
+* Zhivar Sourati (University of Southern California)
+* Anna Thaler (University of Bamberg)
+* Piek Vossen (VU Amsterdam)
 * …will be extended shortly
 
 ## Background
