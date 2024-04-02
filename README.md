@@ -71,7 +71,7 @@ Submissions can fall into one of the following categories :
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
 Dissemination papers will go through a short review from the organizers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
-Please submit your contribution via [[Link to be added](https://chairingtool.com/conferences/AACPL24/MainTrack)](Chairingtool), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
+Please submit your contribution via [Chairingtool](https://chairingtool.com/conferences/AACPL24/MainTrack), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
 ## Important Dates
 * Submission deadline: **May 3rd, 2024**
