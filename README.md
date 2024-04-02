@@ -71,7 +71,7 @@ Submissions can fall into one of the following categories :
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
 Dissemination papers will go through a short review from the organizers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
-Please submit your contribution via this link: [Link to be added](TBD), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
+Please submit your contribution via [[Link to be added](https://chairingtool.com/conferences/AACPL24/MainTrack)](Chairingtool), and select the appropriate paper category (long paper, short paper, dissemination). Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
 ## Important Dates
 * Submission deadline: **May 3rd, 2024**
@@ -117,6 +117,7 @@ Contact: **analogy-angle@groups.google.com**
 * Yifan Jiang (University of Southern California)
 * Kaixin Ma (Tencent AI)
 * Zhivar Sourati (University of Southern California)
+* Riccardo Tommasini (INSA Lyon)
 * Anna Thaler (University of Bamberg)
 * Piek Vossen (VU Amsterdam)
 * …will be extended shortly
@@ -158,7 +159,7 @@ Penn, D.C., Holyoak, K.J. and Povinelli, D.J., 2008. Darwin's mistake: Explainin
 
 Stevenson, C.E., ter Veen, M., Choenni, R., van der Maas, H.L. and Shutova, E., 2023. Do large language models solve verbal analogies like children do?. arXiv preprint arXiv:2310.20384.
 
-Sourati, Z., Ilievski, F. and Sommerauer, P., 2023. ARN: A Comprehensive Framework and Dataset for Analogical Reasoning on Narratives. arXiv preprint arXiv:2310.00996.
+Sourati, Z., Ilievski, F. and Sommerauer, P., 2024. ARN: A Comprehensive Framework and Dataset for Analogical Reasoning on Narratives. To appear in TACL.
 
 Ushio, A., Espinosa-Anke, L., Schockaert, S. and Camacho-Collados, J., 2022, March. BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies?. In ACL 2022 Workshop on Commonsense Representation and Reasoning.
 
