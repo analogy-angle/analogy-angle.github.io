@@ -113,9 +113,11 @@ Contact: **analogy-angle@groups.google.com**
 
 * Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
+* David Cerna (U Prague)
 * Bettina Finzel (University of Bamberg)
 * Yifan Jiang (University of Southern California)
 * Kaixin Ma (Tencent AI)
+* Zeynep G. Saribatur (Vienna University of Technology)
 * Zhivar Sourati (University of Southern California)
 * Riccardo Tommasini (INSA Lyon)
 * Anna Thaler (University of Bamberg)
