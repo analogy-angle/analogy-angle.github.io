@@ -123,7 +123,6 @@ Contact: **analogy-angle@groups.google.com**
 * Riccardo Tommasini (INSA Lyon)
 * Anna Thaler (University of Bamberg)
 * Piek Vossen (VU Amsterdam)
-* …will be extended shortly
 
 ## Background
 
