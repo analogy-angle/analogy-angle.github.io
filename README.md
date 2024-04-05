@@ -116,6 +116,7 @@ Contact: **analogy-angle@groups.google.com**
 * David Cerna (U Prague)
 * Bettina Finzel (University of Bamberg)
 * Yifan Jiang (University of Southern California)
+* Antonio Lieto (University of Salerno)
 * Kaixin Ma (Tencent AI)
 * Zeynep G. Saribatur (Vienna University of Technology)
 * Zhivar Sourati (University of Southern California)
