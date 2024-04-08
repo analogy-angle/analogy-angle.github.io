@@ -73,6 +73,8 @@ Dissemination papers will go through a short review from the organizers, checkin
 
 Please submit your contribution via [Chairingtool](https://chairingtool.com/conferences/AACPL24/MainTrack). The paper type will be inferred based on the submission length. Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
 
+Please format your paper using the [IJCAI template](https://www.ijcai.org/authors_kit).
+
 ## Important Dates
 * Submission deadline: **May 3rd, 2024**
 * Notifications sent: **June 4th, 2024**
