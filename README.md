@@ -76,7 +76,7 @@ Please submit your contribution via [Chairingtool](https://chairingtool.com/conf
 Please format your paper using the [IJCAI template](https://www.ijcai.org/authors_kit).
 
 ## Important Dates
-* Submission deadline: **May 3rd, 2024**
+* Submission deadline: **May 10th, 2024**
 * Notifications sent: **June 4th, 2024**
 
 
