@@ -72,10 +72,13 @@ Full and short research papers will be peer-reviewed by at least two reviewers f
 Dissemination papers will go through a short review from the organizers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
 Please submit your contribution via [Chairingtool](https://chairingtool.com/conferences/AACPL24/MainTrack). The paper type will be inferred based on the submission length. Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
-
 Analogy-ANGLE has informal proceedings and a flexible policy on double submissions of novel papers.
 
 Please format your paper using the [IJCAI template](https://www.ijcai.org/authors_kit).
+
+**Selected papers will be invited to submit to the [Special Issue on Commonsense Reasoning of the Neurosymbolic Artificial Intelligence journal](https://neurosymbolic-ai-journal.com/content/call-papers-special-issue-commonsense-reasoning).**
+
+
 
 ## Important Dates
 * Submission deadline: **May 10th, 2024**
