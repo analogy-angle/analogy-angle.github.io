@@ -81,7 +81,7 @@ Please format your paper using the [IJCAI template](https://www.ijcai.org/author
 
 
 ## Important Dates
-* Submission deadline: **May 10th, 2024**
+* Submission deadline: **May 17th, 2024 (extended!)**
 * Notifications sent: **June 4th, 2024**
 * Workshop date: **August 4th, 2024**
 
