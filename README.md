@@ -126,6 +126,7 @@ Contact: **analogy-angle@groups.google.com**
 * Yifan Jiang (University of Southern California)
 * Antonio Lieto (University of Salerno)
 * Kaixin Ma (Tencent AI)
+* Malvina Nissim (RU Groningen)
 * Zeynep G. Saribatur (Vienna University of Technology)
 * Zhivar Sourati (University of Southern California)
 * Riccardo Tommasini (INSA Lyon)
