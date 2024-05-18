@@ -132,6 +132,7 @@ Contact: **analogy-angle@groups.google.com**
 * Riccardo Tommasini (INSA Lyon)
 * Anna Thaler (University of Bamberg)
 * Piek Vossen (VU Amsterdam)
+* Jiarui Zhang (University of Southern California)
 
 ## Background
 
