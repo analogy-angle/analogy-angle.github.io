@@ -81,8 +81,9 @@ Please format your full and short papers using the [IJCAI template](https://www.
 
 
 ## Important Dates
-* Submission deadline: **May 17th, 2024 (extended!)**
-* Notifications sent: **June 4th, 2024**
+* Submission deadline: **May 17th, 2024 (extended)**
+* Notifications sent: **June 10th, 2024 (updated)**
+* Camera-ready papers due: **June 24th, 2024**
 * Workshop date: **August 4th, 2024**
 
 
@@ -123,6 +124,7 @@ Contact: **analogy-angle@groups.google.com**
 * Tommaso Caselli (RU Groningen)
 * David Cerna (U Prague)
 * Bettina Finzel (University of Bamberg)
+* Frank Guerin (University of Surrey)
 * Yifan Jiang (University of Southern California)
 * Antonio Lieto (University of Salerno)
 * Kaixin Ma (Tencent AI)
