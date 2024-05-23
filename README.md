@@ -123,7 +123,6 @@ Contact: **analogy-angle@groups.google.com**
 * Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
 * David Cerna (U Prague)
-* Bettina Finzel (University of Bamberg)
 * Frank Guerin (University of Surrey)
 * Yifan Jiang (University of Southern California)
 * Antonio Lieto (University of Salerno)
