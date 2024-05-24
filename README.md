@@ -128,10 +128,11 @@ Contact: **analogy-angle@groups.google.com**
 * Antonio Lieto (University of Salerno)
 * Kaixin Ma (Tencent AI)
 * Malvina Nissim (RU Groningen)
+* Enric Plaza (IIIA-CSIC)
+* Henri Prade (CNRS)
 * Zeynep G. Saribatur (Vienna University of Technology)
 * Zhivar Sourati (University of Southern California)
 * Riccardo Tommasini (INSA Lyon)
-* Anna Thaler (University of Bamberg)
 * Piek Vossen (VU Amsterdam)
 * Jiarui Zhang (University of Southern California)
 
