@@ -120,7 +120,6 @@ Contact: **analogy-angle@groups.google.com**
 
 ## Program Committee
 
-* Lisa Beinborn (VU Amsterdam)
 * Tommaso Caselli (RU Groningen)
 * David Cerna (U Prague)
 * Frank Guerin (University of Surrey)
