@@ -121,7 +121,7 @@ Contact: **analogy-angle@groups.google.com**
 ## Program Committee
 
 * Tommaso Caselli (RU Groningen)
-* David Cerna (U Prague)
+* David Cerna (University of Prague)
 * Frank Guerin (University of Surrey)
 * Yifan Jiang (University of Southern California)
 * Kai-Uwe Kühnberger (University of Osnabrück)
