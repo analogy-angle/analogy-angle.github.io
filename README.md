@@ -124,6 +124,7 @@ Contact: **analogy-angle@groups.google.com**
 * David Cerna (U Prague)
 * Frank Guerin (University of Surrey)
 * Yifan Jiang (University of Southern California)
+* Kai-Uwe Kühnberger (University of Osnabrück)
 * Antonio Lieto (University of Salerno)
 * Kaixin Ma (Tencent AI)
 * Malvina Nissim (RU Groningen)
