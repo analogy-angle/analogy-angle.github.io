@@ -28,6 +28,25 @@ Analogy-ANGLE is a new interdisciplinary workshop co-located with IJCAI 2024 on 
     </figure>
 </div>
 
+## Accepted Papers
+
+Novel papers:
+* Philipp Wicke, Lea Hirlimann, João Miguel Cunha. **Using Analogical Reasoning to Prompt LLMs for their Intuitions of Abstract Spatial Schemas**
+* Howard Goldowsky, Vasanth Sarathy. **Analogical Reasoning Within a Conceptual Hyperspace**
+* Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. **Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**	
+
+Dissemination papers:
+* Molly Rose Petersen, Lonneke van der Plas. **Can Language Models Learn Analogical Reasoning? Investigating Training Objectives and Comparisons to Human Performance**
+* Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. **Compositionality as an Analogical Process: Introducing ANNE**
+* Giulia Rambelli, Emmanuele Chersoni, Claudia Collacciani, Marianna Bolognesi. **Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds**
+* Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. **ARN: Analogical Reasoning on Narratives** 
+
+## Program
+Will be published by the end of June.
+
+## Workshop Registration
+Workshop registration is through the [IJCAI conference website](https://ijcai24.org/register/) - please make sure you select **W12 The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)** when registering.
+
 
 ## Topics
 We invite contributions ranging from cognitive modeling and algorithms and methods to new tasks and new applications of analogy. Contributions that take an **interdisciplinary** perspective are particularly encouraged. Topics include (but are not limited to) the following: 
