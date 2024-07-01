@@ -42,7 +42,7 @@ Dissemination papers:
 * Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. [**ARN: Analogical Reasoning on Narratives**](assets/Sourati.pdf)
 
 ## Program
-Will be published by the end of June.
+Will be published soon.
 
 ## Workshop Registration
 Workshop registration is through the [IJCAI conference website](https://ijcai24.org/register/) - please make sure you select **W12 The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)** when registering.
