@@ -32,14 +32,14 @@ Analogy-ANGLE is a new interdisciplinary workshop co-located with IJCAI 2024 on 
 
 Novel papers:
 * Philipp Wicke, Lea Hirlimann, João Miguel Cunha. [**Using Analogical Reasoning to Prompt LLMs for their Intuitions of Abstract Spatial Schemas**](assets/Wicke.pdf)
-* Howard Goldowsky, Vasanth Sarathy. **Analogical Reasoning Within a Conceptual Hyperspace**
-* Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. **Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**	
+* Howard Goldowsky, Vasanth Sarathy. [**Analogical Reasoning Within a Conceptual Hyperspace**](assets/Goldowsky.pdf)
+* Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. [**Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**](assets/Shin.pdf)	
 
 Dissemination papers:
-* Molly Rose Petersen, Lonneke van der Plas. **Can Language Models Learn Analogical Reasoning? Investigating Training Objectives and Comparisons to Human Performance**
-* Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. **Compositionality as an Analogical Process: Introducing ANNE**
-* Giulia Rambelli, Emmanuele Chersoni, Claudia Collacciani, Marianna Bolognesi. **Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds**
-* Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. **ARN: Analogical Reasoning on Narratives** 
+* Molly Rose Petersen, Lonneke van der Plas. [**Can Language Models Learn Analogical Reasoning? Investigating Training Objectives and Comparisons to Human Performance**](assets/Petersen.pdf)
+* Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. [**Compositionality as an Analogical Process: Introducing ANNE**](assets/Rambelli_1.pdf)
+* Giulia Rambelli, Emmanuele Chersoni, Claudia Collacciani, Marianna Bolognesi. [**Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds**](assets/Rambelli_2.pdf)
+* Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. [**ARN: Analogical Reasoning on Narratives**](assets/Sourati.pdf)
 
 ## Program
 Will be published by the end of June.
