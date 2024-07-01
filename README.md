@@ -31,7 +31,7 @@ Analogy-ANGLE is a new interdisciplinary workshop co-located with IJCAI 2024 on 
 ## Accepted Papers
 
 Novel papers:
-* Philipp Wicke, Lea Hirlimann, João Miguel Cunha. **Using Analogical Reasoning to Prompt LLMs for their Intuitions of Abstract Spatial Schemas**
+* Philipp Wicke, Lea Hirlimann, João Miguel Cunha. [**Using Analogical Reasoning to Prompt LLMs for their Intuitions of Abstract Spatial Schemas**](assets/Wicke.pdf)
 * Howard Goldowsky, Vasanth Sarathy. **Analogical Reasoning Within a Conceptual Hyperspace**
 * Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. **Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**	
 
