@@ -55,7 +55,7 @@ Dissemination papers:
 
 10:50 - 11:10 **Coffee break**
 
-Session chair: Pia Sommerauer
+<ins>Session II (Chair: Pia Sommerauer)</ins>
 
 11:10 - 11:30 Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. **Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**
 
@@ -65,7 +65,7 @@ Session chair: Pia Sommerauer
 
 12:10 - 13:30 **Lunch break**
 
-Session chair: Filip Ilievski
+<ins>Session III (Chair: Filip Ilievski)</ins>
 
 13:30 - 14:30 **Keynote by Tony Veale**
 
@@ -73,7 +73,7 @@ Session chair: Filip Ilievski
 
 14:50 - 15:10 **Coffee break**
 
-Session chair: Dafna Shahaf
+<ins>Session IV (Chair: Dafna Shahaf)</ins>
 
 15:10 - 15:30 Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. **ARN: Analogical Reasoning on Narratives**
 
