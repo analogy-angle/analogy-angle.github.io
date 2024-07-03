@@ -47,7 +47,7 @@ Dissemination papers:
 
 09:15 - 09:30 **Introduction** by Filip Ilievski
 
-Session chair: Dafna Shahaf
+<u>Session I (Chair: Dafna Shahaf)</u>
 
 09:30 - 10:30** Keynote by Ken Forbus** 
 
