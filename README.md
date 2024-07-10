@@ -45,13 +45,13 @@ Dissemination papers:
 
 09:00 - 09:15 Welcome and walk-in
 
-09:15 - 09:30 **Introduction** by Filip Ilievski
-
 <ins>Session I (Chair: Pia Sommerauer)</ins>
+
+09:15 - 09:30 **Introduction** by Filip Ilievski
 
 09:30 - 10:30 **Keynote by Ken Forbus** 
 
-10:30 - 11:00 **Coffee break**
+<ins>10:30 - 11:00 **Coffee break**</ins>
 
 <ins>Session II (Chair: Pia Sommerauer)</ins>
 
@@ -65,7 +65,7 @@ Dissemination papers:
 
 12:10 - 12:20 Howard Goldowsky, Vasanth Sarathy. **Analogical Reasoning Within a Conceptual Hyperspace** (video)
 
-12:30 - 14:00 **Lunch break**
+<ins>12:30 - 14:00 **Lunch break**</ins>
 
 
 
@@ -77,7 +77,8 @@ Dissemination papers:
 
 15:20 - 15:30 Molly Rose Petersen, Lonneke van der Plas. **Can Language Models Learn Analogical Reasoning? Investigating Training Objectives and Comparisons to Human Performance** (video)
 
-15:30 - 16:00 **Coffee break**
+
+<ins>15:30 - 16:00 **Coffee break**</ins>
 
 <ins>Session IV</ins>
 
