@@ -47,39 +47,45 @@ Dissemination papers:
 
 09:15 - 09:30 **Introduction** by Filip Ilievski
 
-<ins>Session I (Chair: Dafna Shahaf)</ins>
+<ins>Session I (Chair: Pia Sommerauer)</ins>
 
 09:30 - 10:30 **Keynote by Ken Forbus** 
 
-10:30 - 10:50 Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. **Compositionality as an Analogical Process: Introducing ANNE**
-
-10:50 - 11:10 **Coffee break**
+10:30 - 11:00 **Coffee break**
 
 <ins>Session II (Chair: Pia Sommerauer)</ins>
 
-11:10 - 11:30 Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. **Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**
+11:00 - 11:20 Donghyeon Shin, Seungpil Lee, Klea Kovačec, Sundong Kim. **Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability**
 
-11:30 - 11:50 Giulia Rambelli, Emmanuele Chersoni, Claudia Collacciani, Marianna Bolognesi. **Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds**
+11:20 - 11:40 Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. **ARN: Analogical Reasoning on Narratives**
 
-11:50 - 12:10 Howard Goldowsky, Vasanth Sarathy. **Analogical Reasoning Within a Conceptual Hyperspace**
+11:40 - 11:50 Philipp Wicke, Lea Hirlimann, João Miguel Cunha. **Using Analogical Reasoning to Prompt LLMs for their Intuitions of Abstract Spatial Schemas** (video)
 
-12:10 - 13:30 **Lunch break**
+11:50 - 12:10 Giulia Rambelli, Emmanuele Chersoni, Claudia Collacciani, Marianna Bolognesi. **Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds**
+
+12:10 - 12:20 Howard Goldowsky, Vasanth Sarathy. **Analogical Reasoning Within a Conceptual Hyperspace** (video)
+
+12:30 - 14:00 **Lunch break**
+
+
 
 <ins>Session III (Chair: Filip Ilievski)</ins>
 
-13:30 - 14:30 **Keynote by Tony Veale**
+14:00 - 15:00 **Keynote by Tony Veale**
 
-14:30 - 14:50 Philipp Wicke, Lea Hirlimann, João Miguel Cunha. **Using Analogical Reasoning to Prompt LLMs for their Intuitions of Abstract Spatial Schemas**
+15:00 - 15:20 Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. **Compositionality as an Analogical Process: Introducing ANNE**
 
-14:50 - 15:10 **Coffee break**
+15:20 - 15:30 Molly Rose Petersen, Lonneke van der Plas. **Can Language Models Learn Analogical Reasoning? Investigating Training Objectives and Comparisons to Human Performance** (video)
 
-<ins>Session IV (Chair: Dafna Shahaf)</ins>
+15:30 - 16:00 **Coffee break**
 
-15:10 - 15:30 Zhivar Sourati, Filip Ilievski, Pia Sommerauer, Yifan Jiang. **ARN: Analogical Reasoning on Narratives**
+<ins>Session IV</ins>
 
-15:30 - 15:50 Molly Rose Petersen, Lonneke van der Plas. **Can Language Models Learn Analogical Reasoning? Investigating Training Objectives and Comparisons to Human Performance**
+16:00-17:15 **Panel/roundtable discussion** with the keynote speakers and the paper presenters
 
-15:50 - 16:15 **Open discussion and closing** (led by Pia Sommerauer)
+17:15-17:30 **Closing and final remarks**
+
+
 
 
 ## Workshop Registration
