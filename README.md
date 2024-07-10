@@ -71,7 +71,7 @@ Dissemination papers:
 
 <ins>Session III (Chair: Filip Ilievski)</ins>
 
-14:00 - 15:00 **Keynote by Tony Veale**
+14:00 - 15:00 **Keynote by Tony Veale: Me, Myself and Irony: Exploring different facets of Irony with Analogies and LLMs**
 
 15:00 - 15:20 Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. **Compositionality as an Analogical Process: Introducing ANNE**
 
