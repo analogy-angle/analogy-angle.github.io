@@ -49,7 +49,7 @@ Dissemination papers:
 
 <ins>Session I (Chair: Dafna Shahaf)</ins>
 
-09:30 - 10:30** Keynote by Ken Forbus** 
+09:30 - 10:30 **Keynote by Ken Forbus** 
 
 10:30 - 10:50 Giulia Rambelli, Emmanuele Chersoni, Philippe Blache, Alessandro Lenci. **Compositionality as an Analogical Process: Introducing ANNE**
 
