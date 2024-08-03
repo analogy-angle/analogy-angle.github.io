@@ -154,7 +154,7 @@ Please format your full and short papers using the [IJCAI template](https://www.
 The deadline time is **23:59 anywhere on Earth**.
 
 
-## Organizing Committee
+## Chairs
 
 <div class="fig-row">
     <figure style="display: inline-block;">
@@ -169,6 +169,14 @@ The deadline time is **23:59 anywhere on Earth**.
 	<img src="img/Marianna_Bolognesi.jpg" alt="MB"  width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href="https://www.unibo.it/sitoweb/m.bolognesi/en"><strong>Marianna Bolognesi</strong></a> <br/>University of Bologna<br/>Cognitive linguistics, <br/>Computational creativity</figcaption>
     </figure>
+</div>
+
+
+Contact: **analogy-angle@groups.google.com**
+
+## Advisors
+
+<div class="fig-row">
 	<figure style="display: inline-block;">
 	<img src="img/Ute_Schmid.jpeg" alt="US"  width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href="https://www.uni-bamberg.de/kogsys/team/schmid-ute"><strong>Ute Schmid</strong></a> <br/>University of Bamberg<br/>Cognitive science, <br/>Interpretable ML</figcaption>
@@ -178,9 +186,6 @@ The deadline time is **23:59 anywhere on Earth**.
         <figcaption style="text-align: center;"><a href="http://www.hyadatalab.com"><strong>Dafna Shahaf</strong></a> <br/>The Hebrew University of Jerusalem<br/>Computational creativity, <br/>Data science</figcaption>
     </figure>
 </div>
-
-
-Contact: **analogy-angle@groups.google.com**
 
 ## Program Committee
 
