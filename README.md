@@ -49,7 +49,7 @@ Dissemination papers:
 
 09:15 - 09:30 **Introduction** by Filip Ilievski
 
-09:30 - 10:30 **Keynote by Ken Forbus** 
+09:30 - 10:30 **Keynote by Ken Forbus: Analogical Reasoning and Learning for Human-like AI Systems** 
 
 <ins>10:30 - 11:00 **Coffee break**</ins>
 
