@@ -10,7 +10,7 @@
 
 
 **Analogy-Angle II** is a multidisciplinary workshop to advance research on analogical abstraction by bridging the fields of computational linguistics, artificial intelligence, and cognitive psychology. This workshop seeks to foster collaboration among researchers by providing a platform for sharing novel insights, benchmarks, methodologies, and analogy applications across disciplines. **Analogy-Angle II** welcomes diverse contributions, including original research, reviews, and previously accepted papers from leading conferences. 
-[Analogy-Angle I](https://analogy-angle.github.io/2024) was co-located with IJCAI.
+[Analogy-Angle I](https://analogy-angle.github.io/2024) was co-located with IJCAI 2024.
 
 ## Confirmed Keynote Speakers
 
