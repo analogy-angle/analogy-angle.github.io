@@ -8,13 +8,12 @@
 
 <div align="center">
 	<i></i>Explore, model, and understand analogical reasoning in cognition, language, and computational models from an interdisciplinary perspective</i> <br/>
-	<strong>Co-located with ACL 2025</strong><br/>
+	<strong>Co-located with ACL 2025 ([Analogy-Angle I](https://analogy-angle.github.io/2024) was co-located with IJCAI)</strong><br/>
 </div>
 
 
 **Analogy-Angle II** is a multidisciplinary workshop to advance research on analogical abstraction by bridging the fields of computational linguistics, artificial intelligence, and cognitive psychology. This workshop seeks to foster collaboration among researchers by providing a platform for sharing novel insights, benchmarks, methodologies, and analogy applications across disciplines. **Analogy-Angle II** welcomes diverse contributions, including original research, reviews, and previously accepted papers from leading conferences. 
 
-[The first iteration of Analogy-Angle](https://analogy-angle.github.io/2024) was co-located with IJCAI 2024 in Jeju, South Korea. The workshop received 11 submissions in total (6 novel and 5 dissemination papers). 7 of these papers were accepted, consisting of 3 novel and 4 dissemination papers. The dissemination papers were published within a year prior to the workshop in ACL, TACL, EMNLP, and NAACL. Besides papers, the workshop included two keynote talks by Ken Forbus and Tony Veale and a panel that included the keynote speakers and the paper presenters. The workshop participation was in-person only. It had a steady amount of 30 active participants, and featured many discussions during the talks and over the social activities. The organizing committee of the first iteration of the workshop consisted of 20\% men and 80\% women.
 
 ## Confirmed Keynote Speakers
 
