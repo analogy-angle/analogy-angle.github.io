@@ -1,4 +1,4 @@
-# The First Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-ANGLE)
+# The Second Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II)
 
 <style>
 	li:has(.github){
