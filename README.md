@@ -77,8 +77,6 @@ Analogy-Angle has informal proceedings and a flexible policy on double submissio
 
 Please format your full and short papers using the [ACL template]([https://www.ijcai.org/authors_kit](https://aclrollingreview.org/cfp#paper-submission-and-templates)). Dissemination papers can be submitted in their original format.
 
-**Selected papers will be invited to submit to the [Special Issue on Commonsense Reasoning of the Neurosymbolic Artificial Intelligence journal](https://neurosymbolic-ai-journal.com/content/call-papers-special-issue-commonsense-reasoning).**
-
 
 ## Important Dates
 * Submission deadline: TBD
