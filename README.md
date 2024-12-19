@@ -7,7 +7,7 @@
 </style>
 
 <div align="center">
-	<i></i>Explore, model, and understand analogical reasoning in cognition, language, and computational models from an interdisciplinary perspective</i> <br/>
+	<i>Explore, model, and understand analogical reasoning in cognition, language, and computational models from an interdisciplinary perspective</i> <br/>
 	<strong>Co-located with ACL 2025 ([Analogy-Angle I](https://analogy-angle.github.io/2024) was co-located with IJCAI)</strong><br/>
 </div>
 
