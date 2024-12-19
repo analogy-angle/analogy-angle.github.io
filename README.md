@@ -6,8 +6,10 @@
 	}
 </style>
 
+> Explore, model, and understand analogical reasoning in cognition, language, and computational models from an interdisciplinary perspective
+
+
 <div align="center">
-	<i>Explore, model, and understand analogical reasoning in cognition, language, and computational models from an interdisciplinary perspective</i> <br/>
 	<strong>Co-located with ACL 2025</strong><br/>
 </div>
 
