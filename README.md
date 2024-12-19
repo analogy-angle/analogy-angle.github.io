@@ -58,7 +58,7 @@ We invite contributions ranging from cognitive modeling and algorithms and metho
 
 Submissions can fall into one of the following categories : 
 
-1. **Full Research Papers (up to 7 pages plus 2 pages for references)** - Papers with original research work which will be judged on their technical soundness and rigor, though allowances made for novel or experimental directions. We also welcome submissions reporting negative results and sharing experimental insights on the technical challenges and issues of analogical abstraction. 
+1. **Full Research Papers (up to 8 pages plus 2 pages for references)** - Papers with original research work which will be judged on their technical soundness and rigor, though allowances made for novel or experimental directions. We also welcome submissions reporting negative results and sharing experimental insights on the technical challenges and issues of analogical abstraction. 
 
 2. **Short Papers (up to 4 pages)** - Position papers or reports of ongoing work on new research directions.
 
