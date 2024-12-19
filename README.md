@@ -19,11 +19,11 @@
 
 <div class="fig-row">
     <figure style="display: inline-block;">
-	<img src="img/Mitchell.jpeg" alt="MM" width="200" style="margin:0px 50px"/>
+	<img src="img/Mitchell.jpg" alt="MM" width="200" style="margin:0px 50px"/>
         <figcaption style="text-align: center;"><a href="https://melaniemitchell.me/"><strong>Melanie Mitchell</strong></a> <br/>Santa Fe Institute</figcaption>
     </figure>
     <figure style="display: inline-block;">
-	<img src="img/Shutova.jpeg" alt="ES"  width="200" style="margin:0px 50px"/>
+	<img src="img/Shutova.jpg" alt="ES"  width="200" style="margin:0px 50px"/>
         <figcaption style="text-align: center;"><a href=""><strong>Ekaterina Shutova</strong></a> <br/>University of Amsterdam</figcaption>
     </figure>
 </div>
@@ -96,7 +96,7 @@ The deadline time is **23:59 anywhere on Earth**.
         <figcaption style="text-align: center;"><a href="https://www.ilievski.info"><strong>Filip Ilievski</strong></a> <br/>VU Amsterdam<br/> Commonsense reasoning, <br/>Natural language processing</figcaption>
     </figure>
     <figure style="display: inline-block;">
-	<img src="img/Giulia_Rambelli.jpeg" alt="GR"  width="170" style="margin:15px 15px"/>
+	<img src="img/Rambelli.jpg" alt="GR"  width="170" style="margin:15px 15px"/>
         <figcaption style="text-align: center;"><a href=""><strong>Giulia Rambelli</strong></a> <br/>University of Bologna<br/>Computational linguistics, <br/>Natural language processing</figcaption>
     </figure>
 	<figure style="display: inline-block;">
