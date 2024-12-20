@@ -68,8 +68,8 @@ Submissions can fall into one of the following categories :
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
 Dissemination papers will go through a short review from the organizers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
-Please submit your contribution via TBD. 
-The paper type will be inferred based on the submission length. Submissions should be **anonymized** and the review will be double-blind. Preprints can be stored on arXiv.
+Please submit your contribution via [Open Review](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/Analogy-ANGLE).
+The paper type will be inferred based on the submission length. Submissions should be **anonymized**, and the review will be double-blind. Preprints can be stored on arXiv.
 Analogy-Angle has informal proceedings and a flexible policy on double submissions of novel papers.
 
 Please format your full and short papers using the [ACL template]([https://www.ijcai.org/authors_kit](https://aclrollingreview.org/cfp#paper-submission-and-templates)). Dissemination papers can be submitted in their original format.
