@@ -9,7 +9,7 @@
 > Explore, model, and understand analogical reasoning in cognition, language, and computational models from an interdisciplinary perspective
 
 
-**Analogy-Angle II** is a multidisciplinary workshop to advance research on analogical abstraction by bridging the fields of computational linguistics, artificial intelligence, and cognitive psychology. This workshop seeks to foster collaboration among researchers by providing a platform for sharing novel insights, benchmarks, methodologies, and analogy applications across disciplines. **Analogy-Angle II** welcomes diverse contributions, including original research, reviews, and previously accepted papers from leading conferences. 
+**Analogy-Angle II** is a multidisciplinary workshop to advance research on analogical abstraction by bridging the fields of computational linguistics, artificial intelligence, and cognitive psychology. This workshop seeks to foster collaboration among researchers by providing a platform for sharing novel insights, benchmarks, methodologies, and analogy applications across disciplines. **Analogy-Angle II** welcomes diverse contributions, including original research, reviews, and previously accepted papers from leading conferences.
 [Analogy-Angle I](https://analogy-angle.github.io/2024) was co-located with IJCAI 2024.
 
 ## Confirmed Keynote Speakers
@@ -70,9 +70,10 @@ Dissemination papers will go through a short review from the organizers, checkin
 
 Please submit your contribution via [Open Review](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/Analogy-ANGLE).
 The paper type will be inferred based on the submission length. Submissions should be **anonymized**, and the review will be double-blind. Preprints can be stored on arXiv.
-Analogy-Angle has informal proceedings and a flexible policy on double submissions of novel papers.
 
-Please format your full and short papers using the [ACL template]([https://www.ijcai.org/authors_kit](https://aclrollingreview.org/cfp#paper-submission-and-templates)). Dissemination papers can be submitted in their original format.
+Please format your full and short papers using the [ACL template](https://aclrollingreview.org/cfp#paper-submission-and-templates). Dissemination papers can be submitted in their original format.
+
+We favor in-person presentations of the accepted works. However, in cases where this is not possible, we will accommodate remote presentations.
 
 
 ## Important Dates
