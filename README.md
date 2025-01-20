@@ -124,18 +124,18 @@ Contact: **analogyangle.organizers@gmail.com**
 
 ## Program Committee
 
-1. David Cerna (University of Prague)
-2. Frank Guerin (University of Surrey)
-3. Yifan Jiang (University of Southern California)
-4. Sundong Kim (GIST Korea)
-5. Antonio Lieto (University of Salerno)
-6. Henri Prade (CNRS)
-7. Zeynep G. Saribatur (Vienna University of Technology)
-8. Hwanjun Song (KAIST)
-9. Zhivar Sourati (University of Southern California)
-10. Philipp Wicke (Ludwig Maximilian University)
-11. Cas Coopmans (Donders Institute for Brain, Cognition and Behavior, Radboud Universiteit Nijmegen)
-12. Eunice Yiu (UC Berkeley)
+1. Cas Coopmans (Donders Institute for Brain, Cognition and Behavior, Radboud Universiteit Nijmegen)
+2. David Cerna (University of Prague)
+3. Frank Guerin (University of Surrey)
+4. Yifan Jiang (University of Southern California)
+5. Sundong Kim (GIST Korea)
+6. Antonio Lieto (University of Salerno)
+7. Henri Prade (CNRS)
+8. Zeynep G. Saribatur (Vienna University of Technology)
+9. Hwanjun Song (KAIST)
+10. Zhivar Sourati (University of Southern California)
+11. Philipp Wicke (Ludwig Maximilian University)
+13. Eunice Yiu (UC Berkeley)
 
 ## Workshop Registration
 Workshop registration is through the ACL website. 
