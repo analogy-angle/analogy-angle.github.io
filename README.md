@@ -120,7 +120,7 @@ All deadline times are **23:59 anywhere on Earth**.
     </figure>
 </div>
 
-Contact: **analogy-angle@groups.google.com**
+Contact: **analogyangle.organizers@gmail.com**
 
 ## Program Committee
 
