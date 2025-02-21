@@ -136,6 +136,7 @@ Contact: **analogyangle.organizers@gmail.com**
 10. Zhivar Sourati (University of Southern California)
 11. Philipp Wicke (Ludwig Maximilian University)
 13. Eunice Yiu (UC Berkeley)
+14. Martha Lewis (ILLC, University of Amsterdam)
 
 ## Workshop Registration
 Workshop registration is through the ACL website. 
