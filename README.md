@@ -129,14 +129,15 @@ Contact: **analogyangle.organizers@gmail.com**
 3. Frank Guerin (University of Surrey)
 4. Yifan Jiang (University of Southern California)
 5. Sundong Kim (GIST Korea)
-6. Antonio Lieto (University of Salerno)
-7. Henri Prade (CNRS)
-8. Zeynep G. Saribatur (Vienna University of Technology)
-9. Hwanjun Song (KAIST)
-10. Zhivar Sourati (University of Southern California)
-11. Philipp Wicke (Ludwig Maximilian University)
+6. Martha Lewis (ILLC, University of Amsterdam)
+7. Antonio Lieto (University of Salerno)
+8. Henri Prade (CNRS)
+9. Zeynep G. Saribatur (Vienna University of Technology)
+10. Hwanjun Song (KAIST)
+11. Zhivar Sourati (University of Southern California)
+12. Philipp Wicke (Ludwig Maximilian University)
 13. Eunice Yiu (UC Berkeley)
-14. Martha Lewis (ILLC, University of Amsterdam)
+
 
 ## Workshop Registration
 Workshop registration is through the ACL website. 
