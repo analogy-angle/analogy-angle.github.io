@@ -77,13 +77,10 @@ We favor in-person presentations of the accepted works. However, in cases where 
 
 
 ## Important Dates
-* First call for workshop papers: December 19, 2024
-* Second call for workshop papers: January 24, 2025
-* Third call for workshop papers: February 24, 2025
-* Direct submission deadline: March 1, 2025
-* Pre-reviewed (ARR) submission deadline: March 25, 2025
-* Notification of acceptance: April 17, 2025
-* Camera-ready paper deadline: May 16, 2025
+* Direct paper submission deadline: April 21st 
+* Pre-reviewed ARR commitment deadline: May 16th
+* Notification of acceptance: May 26th
+* Camera-ready paper due: June 7, 2025 
 * Proceedings due (hard deadline): June 30, 2025
 * Pre-recorded video due (hard deadline): July 7, 2025
 * Workshop dates: July 31st - August 1st 2025
