@@ -68,6 +68,9 @@ Submissions can fall into one of the following categories :
 Full and short research papers will be peer-reviewed by at least two reviewers from the PC. Accepted full and short papers will be included in the proceedings of the workshop. 
 Dissemination papers will go through a short review from the organizers, checking for their quality and relevance to the workshop. Dissemination papers will not be included in the workshop proceedings.
 
+We accept cross-submissions (papers also submitted at other venues) as long as the other venue is non-archival. 
+We also accept submissions directly from ARR.
+
 Please submit your contribution via [Open Review](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/Analogy-ANGLE).
 The paper type will be inferred based on the submission length. Submissions should be **anonymized**, and the review will be double-blind. Preprints can be stored on arXiv.
 
