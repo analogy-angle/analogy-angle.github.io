@@ -86,7 +86,7 @@ We favor in-person presentations of the accepted works. However, in cases where 
 * Camera-ready paper due: June 7, 2025 
 * Proceedings due (hard deadline): June 30, 2025
 * Pre-recorded video due (hard deadline): July 7, 2025
-* Workshop dates: July 31st - August 1st 2025
+* Workshop dates: August 1st 2025
 
 
 All deadline times are **23:59 anywhere on Earth**.
