@@ -131,13 +131,11 @@ Contact: **analogyangle.organizers@gmail.com**
 5. Hossein Khojasteh (VU Amsterdam)
 6. Sundong Kim (GIST Korea)
 7. Martha Lewis (ILLC, University of Amsterdam)
-8. Antonio Lieto (University of Salerno)
-9. Henri Prade (CNRS)
 10. Zeynep G. Saribatur (Vienna University of Technology)
-11. Hwanjun Song (KAIST)
 12. Zhivar Sourati (University of Southern California)
 13. Philipp Wicke (Ludwig Maximilian University)
 14. Eunice Yiu (UC Berkeley)
+15. Alessandra Zarcone (Technische Hochschule Augsburg)
 
 
 ## Workshop Registration
