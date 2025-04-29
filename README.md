@@ -126,16 +126,19 @@ Contact: **analogyangle.organizers@gmail.com**
 
 1. Cas Coopmans (Donders Institute for Brain, Cognition and Behavior, Radboud Universiteit Nijmegen)
 2. David Cerna (University of Prague)
-3. Frank Guerin (University of Surrey)
-4. Yifan Jiang (University of Southern California)
-5. Hossein Khojasteh (VU Amsterdam)
-6. Sundong Kim (GIST Korea)
-7. Martha Lewis (ILLC, University of Amsterdam)
+3. Valentin Forch (Technische Universität Chemnitz)
+4. Frank Guerin (University of Surrey)
+5. Yifan Jiang (University of Southern California)
+6. Hossein Khojasteh (VU Amsterdam)
+7. Sundong Kim (GIST Korea)
+8. Martha Lewis (ILLC, University of Amsterdam)
+9. Gustaw Opielka (University of Amsterdam)
 10. Zeynep G. Saribatur (Vienna University of Technology)
 12. Zhivar Sourati (University of Southern California)
-13. Philipp Wicke (Ludwig Maximilian University)
-14. Eunice Yiu (UC Berkeley)
-15. Alessandra Zarcone (Technische Hochschule Augsburg)
+13. Sydelle de Souza (University of Edinburgh)
+14. Philipp Wicke (Ludwig Maximilian University)
+15. Eunice Yiu (UC Berkeley)
+16. Alessandra Zarcone (Technische Hochschule Augsburg)
 
 
 ## Workshop Registration
