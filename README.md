@@ -12,7 +12,7 @@
 **Analogy-Angle II** is a multidisciplinary workshop to advance research on analogical abstraction by bridging the fields of computational linguistics, artificial intelligence, and cognitive psychology. This workshop seeks to foster collaboration among researchers by providing a platform for sharing novel insights, benchmarks, methodologies, and analogy applications across disciplines. **Analogy-Angle II** welcomes diverse contributions, including original research, reviews, and previously accepted papers from leading conferences.
 [Analogy-Angle I](https://analogy-angle.github.io/2024) was co-located with IJCAI 2024.
 
-## Confirmed Keynote Speakers
+## Keynote Speakers
 
 <div class="fig-row">
     <figure style="display: inline-block;">
@@ -24,6 +24,62 @@
         <figcaption style="text-align: center;"><a href=""><strong>Ekaterina Shutova</strong></a> <br/>University of Amsterdam</figcaption>
     </figure>
 </div>
+
+## Accepted Papers
+
+Novel (archival) papers:
+* **Tore-Klose: Record Scorer, Goal Hunter, Machine? Human Association Norms for German Personal Name Compounds**. Annerose Eichel, Tana Deeg, Andre Blessing, Milena Belosevic, Sabine Arndt-Lappe, Sabine Schulte im Walde.
+* **Using Large Language Models to Perform MIPVU-Inspired Automatic Metaphor Detection**. Sebastian Reimann, Tatjana Scheffler.
+* **Modeling Background Knowledge with Frame Semantics for Fine-grained Sentiment Classification**. Muhammad Okky Ibrohim, Valerio Basile, Danilo Croce, Cristina Bosco, Roberto Basili.
+* **On choosing the vehicles of metaphors in Large Language Models: testing metaphor production without a body**. Veronica Mangiaterra, Chiara Barattieri di San Pietro, Federico Frau, Valentina Bambini, Hamad Al-Azary.
+* **Prompting Metaphoricity: Soft Labeling with Large Language Models in Popular Communication of Science Tweets in Spanish**. Alec Sánchez-Montero, Gemma Bel-Enguix, Sergio-Luis Ojeda-Trueba, Gerardo Sierra.
+* **HATS : Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**. Ashray Gupta, Rohan Joseph, Sunny Rai.
+* **Simulating Emotional Intelligence in LLMs through Behavioral Conditioning and Analogical Retrieval**. G.Sai Linisha Reddy, Mounil Hiren Kankhara, Swayam Bansal, Mridul Maheshwari, Rishit Kapoor, Himesh Reddy M. 
+* **Can Stories Help LLMs Reason? Curating Information Space Through Narrative**. Vahid Sadiri Javadi, Johanne Trippas, Yash Kumar Lal, Lucie Flek.
+* **Testing Spatial Intuitions of Humans and Large Language and Multimodal Models in Analogies**. Ivo de Souza Bueno Júnior, Anna Bavaresco, João Miguel Cunha, Philipp Wicke.
+
+
+Dissemination (non-archival) papers:
+* **AnaScore: Understanding Semantic Parallelism in Proportional Analogies**. Liyan Wang, Haotong Wang, Yves Lepage. Published at NAACL 2025.
+* **Automatic Extraction of Metaphoric Analogies from Literary Texts: Task Formulation, Dataset Construction, and Evaluation**. Joanne Boisson, Zara Siddique, Hsuvas Borkakoty, Dimosthenis Antypas, Luis Espinosa Anke, Jose Camacho-Collados. Published at COLING 2024.
+* **Do large language models solve verbal analogies like children do?** Claire E. Stevenson, Mathilde ter Veen, Rochelle Choenni, Han L. J. van der Maas, Ekaterina Shutova. Published at CoNLL 2025.
+
+
+## Program
+
+08:45 - 09:00 Welcome and walk-in
+
+<ins>Session I </ins>
+
+09:00 - 09:15 **Introduction** by organizers
+
+09:15 - 10:30 **Oral presentations as lightning talks** (6 papers)
+
+<ins>10:30 - 11:00 **Coffee break**</ins>
+
+<ins>Session II</ins>
+
+11:00 - 12:00 **Keynote by Katia Shutova**
+
+12:00 - 12:40 **Oral presentations as lightning talks** (3 papers)
+
+<ins>12:40 - 14:00 **Lunch break**</ins>
+
+
+<ins>Session III</ins>
+
+14:00 - 15:00 **Poster session** 
+
+15:00 - 15:30 **Oral presentations as lightning talks** (3 papers)
+
+<ins>15:30 - 16:00 **Coffee break**</ins>
+
+<ins>Session IV</ins>
+
+16:00 - 17:00 **Keynote by Melanie Mitchell**
+
+17:00 - 17:30 **Closing and final remarks**, led by the organizers
+
 
 
 ## Topics
@@ -85,7 +141,6 @@ We favor in-person presentations of the accepted works. However, in cases where 
 * Notification of acceptance: May 26th
 * Camera-ready paper due: June 7, 2025 
 * Proceedings due (hard deadline): June 30, 2025
-* Pre-recorded video due (hard deadline): July 7, 2025
 * Workshop date: August 1st 2025
 
 
