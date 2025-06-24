@@ -49,36 +49,58 @@ Dissemination (non-archival) papers:
 
 08:45 - 09:00 Welcome and walk-in
 
-<ins>Session I </ins>
+<ins>Session I (chair: Filip Ilievski)</ins>
 
-09:00 - 09:15 **Introduction** by organizers
+09:00 - 09:10 **Introduction** by session chair
 
-09:15 - 10:30 **Oral presentations as lightning talks** (6 papers)
+09:10 - 10:30 **Oral presentations as lightning talks** (6 papers)
+
+<ul>
+	<li>Can Stories Help LLMs Reason? Curating Information Space Through Narrative. Vahid Sadiri Javadi, Johanne Trippas, Yash Kumar Lal, Lucie Flek.</li>
+	<li>Modeling Background Knowledge with Frame Semantics for Fine-grained Sentiment Classification. Muhammad Okky Ibrohim, Valerio Basile, Danilo Croce, Cristina Bosco, Roberto Basili.</li>
+	<li>Simulating Emotional Intelligence in LLMs through Behavioral Conditioning and Analogical Retrieval. G.Sai Linisha Reddy, Mounil Hiren Kankhara, Swayam Bansal, Mridul Maheshwari, Rishit Kapoor, Himesh Reddy M.</li>
+	<li>Tore-Klose: Record Scorer, Goal Hunter, Machine? Human Association Norms for German Personal Name Compounds. Annerose Eichel, Tana Deeg, Andre Blessing, Milena Belosevic, Sabine Arndt-Lappe, Sabine Schulte im Walde.</li>
+	<li>HATS : Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models. Ashray Gupta, Rohan Joseph, Sunny Rai.</li>
+	<li>AnaScore: Understanding Semantic Parallelism in Proportional Analogies. Liyan Wang, Haotong Wang, Yves Lepage. Published at NAACL 2025. (non-archival)</li>
+</ul>
 
 <ins>10:30 - 11:00 **Coffee break**</ins>
 
-<ins>Session II</ins>
+<ins>Session II (chair: Pia Sommerauer)</ins>
 
 11:00 - 12:00 **Keynote by Katia Shutova**
 
 12:00 - 12:40 **Oral presentations as lightning talks** (3 papers)
 
+<ul>
+	<li>On choosing the vehicles of metaphors in Large Language Models: testing metaphor production without a body. Veronica Mangiaterra, Chiara Barattieri di San Pietro, Federico Frau, Valentina Bambini, Hamad Al-Azary.</li>
+	<li>Testing Spatial Intuitions of Humans and Large Language and Multimodal Models in Analogies. Ivo de Souza Bueno Júnior, Anna Bavaresco, João Miguel Cunha, Philipp Wicke.</li>
+	<li>Do large language models solve verbal analogies like children do? Claire E. Stevenson, Mathilde ter Veen, Rochelle Choenni, Han L. J. van der Maas, Ekaterina Shutova. Published at CoNLL 2025. (non-archival)</li> 
+</ul>
+
 <ins>12:40 - 14:00 **Lunch break**</ins>
 
 
-<ins>Session III</ins>
+<ins>Session III (chair: Giulia Rambelli)</ins>
 
-14:00 - 15:00 **Poster session** 
+14:00 - 14:40 **Oral presentations as lightning talks** (3 papers)
 
-15:00 - 15:30 **Oral presentations as lightning talks** (3 papers)
+<ul>
+	<li>Prompting Metaphoricity: Soft Labeling with Large Language Models in Popular Communication of Science Tweets in Spanish. Alec Sánchez-Montero, Gemma Bel-Enguix, Sergio-Luis Ojeda-Trueba, Gerardo Sierra.</li>
+ 	<li>Automatic Extraction of Metaphoric Analogies from Literary Texts: Task Formulation, Dataset Construction, and Evaluation. Joanne Boisson, Zara Siddique, Hsuvas Borkakoty, Dimosthenis Antypas, Luis Espinosa Anke, Jose Camacho-Collados. Published at COLING 2024. (non-archival)</li>
+	<li>Using Large Language Models to Perform MIPVU-Inspired Automatic Metaphor Detection. Sebastian Reimann, Tatjana Scheffler.</li>
+</ul>
+
+14:45 - 16:00 **Poster session** 
+
 
 <ins>15:30 - 16:00 **Coffee break**</ins>
 
-<ins>Session IV</ins>
+<ins>Session IV (chair: Marianna Bolognesi)</ins>
 
-16:00 - 17:00 **Keynote by Melanie Mitchell**
+16:00 - 17:00 **Keynote by Melanie Mitchell**, Title: "Evaluating abstraction and evaluation capabilities of humans and AI systems"
 
-17:00 - 17:30 **Closing and final remarks**, led by the organizers
+17:00 - 17:30 **Closing and final remarks**, led by the session chair
 
 
 
