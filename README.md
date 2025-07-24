@@ -68,7 +68,7 @@ Dissemination (non-archival) papers:
 
 <ins>Session II (chair: Pia Sommerauer)</ins>
 
-11:00 - 12:00 **Keynote by Katia Shutova (in person):** "On metaphor, politics and humour"
+11:00 - 12:00 **Keynote by Katia Shutova (in person): On metaphor, politics and humour**
 
 12:00 - 12:40 **Oral presentations as lightning talks** (3 papers)
 
@@ -98,7 +98,7 @@ Dissemination (non-archival) papers:
 
 <ins>Session IV (chair: Marianna Bolognesi)</ins>
 
-16:00 - 17:00 **Keynote by Melanie Mitchell (remote):** "Evaluating abstraction and evaluation capabilities of humans and AI systems"
+16:00 - 17:00 **Keynote by Melanie Mitchell (remote): Evaluating abstraction and evaluation capabilities of humans and AI systems**
 
 17:00 - 17:30 **Closing and final remarks**, led by the session chair
 
