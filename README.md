@@ -98,7 +98,7 @@ Dissemination (non-archival) papers:
 
 <ins>Session IV (chair: Marianna Bolognesi)</ins>
 
-16:00 - 17:00 **Keynote by Melanie Mitchell (remote): Evaluating abstraction and evaluation capabilities of humans and AI systems**
+16:00 - 17:00 **Keynote by Melanie Mitchell (remote): Evaluating abstraction and analogy-making capabilities of humans and AI systems**
 
 17:00 - 17:30 **Closing and final remarks**, led by the session chair
 
