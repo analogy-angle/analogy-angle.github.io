@@ -42,7 +42,7 @@ Novel (archival) papers:
 Dissemination (non-archival) papers:
 * **AnaScore: Understanding Semantic Parallelism in Proportional Analogies**. Liyan Wang, Haotong Wang, Yves Lepage. Published at NAACL 2025.
 * **Automatic Extraction of Metaphoric Analogies from Literary Texts: Task Formulation, Dataset Construction, and Evaluation**. Joanne Boisson, Zara Siddique, Hsuvas Borkakoty, Dimosthenis Antypas, Luis Espinosa Anke, Jose Camacho-Collados. Published at COLING 2024.
-* **Do large language models solve verbal analogies like children do?** Claire E. Stevenson, Mathilde ter Veen, Rochelle Choenni, Han L. J. van der Maas, Ekaterina Shutova. Published at CoNLL 2025.
+* **Do large language models solve verbal analogies like children do?** Tamar Johnson, Mathilde ter Veen, Rochelle Choenni, Han L. J. van der Maas, Ekaterina Shutova, Claire E. Stevenson. Published at CoNLL 2025.
 
 
 ## Program
